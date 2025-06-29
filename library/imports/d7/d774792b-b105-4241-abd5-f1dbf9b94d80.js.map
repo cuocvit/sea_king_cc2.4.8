@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\common\\configs\\star.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["export interface StarConfig {\r\n    arms: number;\r\n    star: number;\r\n    name: string;\r\n    nextNeedItem: number;\r\n    nextNeedNum: number;\r\n    defense: number;\r\n    attack: number;\r\n    hp: number;\r\n    speed: number;\r\n}"]}

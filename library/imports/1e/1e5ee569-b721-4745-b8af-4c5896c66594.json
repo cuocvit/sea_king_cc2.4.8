@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "noBarrel2",
+    "texture": "c0838e0d-f469-469d-89d4-ae35073ba9a0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      193,
+      193
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      193,
+      193
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnDark",
+    "texture": "c37ead63-6007-4d06-9dd2-7dd94b4043b4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      169,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      169,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pubu_01",
+    "texture": "5c978431-f40b-4067-8f94-03755f90f526",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      82,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

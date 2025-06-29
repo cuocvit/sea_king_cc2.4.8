@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dongkubg",
+    "texture": "47e5a714-5b27-4c59-9597-8399cd0d8fd4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      720,
+      211
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      720,
+      211
+    ],
+    "capInsets": [
+      0,
+      96,
+      0,
+      78
+    ]
+  }
+}

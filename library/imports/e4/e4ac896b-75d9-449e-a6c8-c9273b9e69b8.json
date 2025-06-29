@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iconBucket2",
+    "texture": "9e79ec80-d03a-48a7-ad97-5c97bad2b5ca",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      41,
+      43
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      44,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

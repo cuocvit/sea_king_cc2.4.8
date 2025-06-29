@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "mall",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "mall_id\tshop_type\tshow_img\titem_id\titem_num\titem_id1\titem_num1\tmoney_type\tprice\t\r\n商品序号\t商店分类\t展示图片\t道具ID\t数量\t道具ID1\t数量1\t货币类型\t商品售价\t\r\ninteger\tinteger\tinteger\tinteger\tinteger\tinteger\tinteger\tinteger\tinteger\t\r\nkey\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\r\n1\t1\t1\t11006\t40\t11003\t80\t1\t3\t\r\n2\t1\t2\t11006\t70\t11003\t170\t1\t5\t\r\n3\t1\t3\t11006\t100\t11003\t315\t1\t7\t\r\n4\t1\t4\t11006\t130\t11003\t500\t1\t9\t\r\n5\t1\t5\t11006\t150\t11003\t920\t1\t14\t\r\n6\t2\t21\t11003\t95\t0\t0\t1\t3\t\r\n7\t2\t22\t11003\t165\t0\t0\t1\t4\t\r\n8\t2\t23\t11003\t420\t0\t0\t1\t8\t\r\n9\t3\t31\t11006\t40\t0\t0\t2\t1\t\r\n10\t3\t32\t11006\t90\t0\t0\t11003\t66\t\r\n11\t3\t33\t11006\t150\t0\t0\t11003\t99\t\r\n"
+}

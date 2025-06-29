@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yanyun_3",
+    "texture": "77f2ff97-ad62-4f9c-9f9a-1db1b44c9a3c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      103,
+      144
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      103,
+      144
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

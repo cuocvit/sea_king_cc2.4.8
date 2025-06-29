@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_zhuanpan",
+    "texture": "5799f92c-fc5d-4440-8b0e-7e51a6ec1bae",
+    "atlas": "",
+    "rect": [
+      0,
+      3,
+      397,
+      123
+    ],
+    "offset": [
+      -7,
+      -1
+    ],
+    "originalSize": [
+      411,
+      127
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yiban",
+    "texture": "2501649b-7f0f-4b85-a54d-531d8a73817c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      118,
+      154
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      154
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

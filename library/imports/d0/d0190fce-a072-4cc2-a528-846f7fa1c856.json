@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ladder_arrow",
+    "texture": "b0e169cc-50e2-4756-bf17-895d0709f62c",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      71,
+      52
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      74,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

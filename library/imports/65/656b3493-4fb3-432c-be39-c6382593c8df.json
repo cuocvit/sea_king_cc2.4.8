@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hero_mask",
+    "texture": "8be3b72c-5666-4b3c-a3ab-cf052e9093ff",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

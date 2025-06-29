@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yingzi",
+    "texture": "46c40b51-5f94-40ba-992c-d0cef021e9ab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

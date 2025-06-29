@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\common\\configs\\playdata.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["export interface PlayData {\r\n    map_key: string;\r\n    cell_id: number;\r\n    enter: number;\r\n    item_type: number;\r\n    item_id: number;\r\n    is_obstruct: number;\r\n    skill_lv: number;\r\n    star_lv: number;\r\n}"]}

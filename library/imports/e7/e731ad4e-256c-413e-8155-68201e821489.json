@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhipian_004",
+    "texture": "1d859134-a2c5-4613-937f-ddb6833d61eb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      168,
+      190
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      168,
+      190
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+
+buxiangren.png
+size: 240,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_duanfa1
+  rotate: true
+  xy: 2, 4
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+b_duanfa2
+  rotate: false
+  xy: 217, 75
+  size: 21, 30
+  orig: 22, 30
+  offset: 1, 0
+  index: -1
+b_qunzi
+  rotate: false
+  xy: 152, 70
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+b_rshou
+  rotate: false
+  xy: 53, 7
+  size: 27, 27
+  orig: 30, 27
+  offset: 3, 0
+  index: -1
+b_shenti
+  rotate: true
+  xy: 201, 15
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+b_tou
+  rotate: true
+  xy: 2, 28
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+b_toukui
+  rotate: false
+  xy: 48, 157
+  size: 102, 81
+  orig: 102, 81
+  offset: 0, 0
+  index: -1
+b_wuqi
+  rotate: true
+  xy: 152, 150
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+b_zshou
+  rotate: true
+  xy: 32, 3
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+yellow_qugan
+  rotate: false
+  xy: 144, 28
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+yellow_qunzi
+  rotate: false
+  xy: 47, 36
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+yellow_tou
+  rotate: false
+  xy: 152, 107
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+yellow_toufa_shang
+  rotate: false
+  xy: 48, 75
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+yellow_toufa_youxia
+  rotate: false
+  xy: 218, 118
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+yellow_toufa_zuoxia
+  rotate: true
+  xy: 82, 13
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+yellow_wuqi
+  rotate: false
+  xy: 2, 95
+  size: 44, 143
+  orig: 44, 143
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: true
+  xy: 114, 21
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+z_rtui
+  rotate: true
+  xy: 218, 107
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+z_ztui
+  rotate: false
+  xy: 227, 223
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1

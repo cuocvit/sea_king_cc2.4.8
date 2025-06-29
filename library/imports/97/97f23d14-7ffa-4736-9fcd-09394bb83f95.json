@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "supericon",
+    "texture": "3066054c-68b8-421e-bf32-e7d88bd9471e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      64
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      90,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fly_19",
+  "_duration": 0.26666666666666666,
+  "sample": 15,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "fire_1": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "507dea75-2d5e-42a4-97b1-11c361b7c225"
+                }
+              },
+              {
+                "frame": 0.06666666666666667,
+                "value": {
+                  "__uuid__": "0ce374cf-20e3-4e46-9622-6d75b1fff2df"
+                }
+              },
+              {
+                "frame": 0.13333333333333333,
+                "value": {
+                  "__uuid__": "e4847389-c0a1-49b0-9139-b3bb8d60d862"
+                }
+              },
+              {
+                "frame": 0.2,
+                "value": {
+                  "__uuid__": "b141fb7c-48b5-46f3-b698-325b233a1520"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "glow_04": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 100
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.683,
+                "y": 0.683
+              }
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.557,
+                "y": 0.557
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.683,
+                "y": 0.683
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

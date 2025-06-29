@@ -1,0 +1,146 @@
+
+40002.png
+size: 176,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_01
+  rotate: true
+  xy: 131, 113
+  size: 68, 39
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+a_02
+  rotate: true
+  xy: 131, 202
+  size: 68, 41
+  orig: 72, 41
+  offset: 2, 0
+  index: -1
+a_03
+  rotate: true
+  xy: 90, 198
+  size: 72, 39
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+b_shenti
+  rotate: true
+  xy: 135, 10
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+b_tou
+  rotate: true
+  xy: 42, 94
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 93, 21
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+z_banbi
+  rotate: false
+  xy: 90, 182
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+z_biyan
+  rotate: false
+  xy: 125, 183
+  size: 33, 13
+  orig: 33, 13
+  offset: 0, 0
+  index: -1
+z_meimap
+  rotate: false
+  xy: 2, 9
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+z_rshou
+  rotate: false
+  xy: 65, 15
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+z_rtui
+  rotate: false
+  xy: 119, 7
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+z_shenti
+  rotate: true
+  xy: 135, 51
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+z_tou
+  rotate: false
+  xy: 2, 26
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+z_toufa
+  rotate: false
+  xy: 65, 41
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+z_toukui
+  rotate: true
+  xy: 2, 182
+  size: 88, 86
+  orig: 88, 86
+  offset: 0, 0
+  index: -1
+z_wuqi
+  rotate: false
+  xy: 2, 84
+  size: 38, 96
+  orig: 38, 97
+  offset: 0, 0
+  index: -1
+z_yan
+  rotate: false
+  xy: 131, 94
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+z_ztui
+  rotate: true
+  xy: 42, 84
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+z_zuiba
+  rotate: true
+  xy: 160, 183
+  size: 17, 11
+  orig: 18, 12
+  offset: 1, 0
+  index: -1
+z_zuoshou
+  rotate: false
+  xy: 93, 2
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1

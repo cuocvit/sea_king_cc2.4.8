@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnLock",
+    "texture": "f3d4cc0c-9cdd-4e7e-93dd-461c3380b15e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "gift_item3",
+  "_duration": 1.6666666666666667,
+  "sample": 30,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "zong/mask/glow_10": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -77.1,
+                24.2
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": [
+                -1,
+                15.795,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 200
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "zong/mask copy/glow_10": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                3.7,
+                1.3
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": [
+                33.9,
+                30.9
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 200
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "zong/kuang_03": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 100
+            },
+            {
+              "frame": 0.9,
+              "value": 255
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 100
+            }
+          ]
+        }
+      }
+    }
+  }
+}

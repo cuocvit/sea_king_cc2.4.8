@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\common\\configs\\decorate.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["export interface DecorateConfig {\r\n    id: number;\r\n    imgID: string;\r\n    animID: string;\r\n}"]}

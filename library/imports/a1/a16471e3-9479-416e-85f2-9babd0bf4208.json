@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hec_07",
+    "texture": "1cc85a1d-0757-492b-82b5-b39a5e770b53",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

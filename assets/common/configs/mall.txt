@@ -1,0 +1,15 @@
+mall_id	shop_type	show_img	item_id	item_num	item_id1	item_num1	money_type	price	
+商品序号	商店分类	展示图片	道具ID	数量	道具ID1	数量1	货币类型	商品售价	
+integer	integer	integer	integer	integer	integer	integer	integer	integer	
+key	""	""	""	""	""	""	""	""	
+1	1	1	11006	40	11003	80	1	3	
+2	1	2	11006	70	11003	170	1	5	
+3	1	3	11006	100	11003	315	1	7	
+4	1	4	11006	130	11003	500	1	9	
+5	1	5	11006	150	11003	920	1	14	
+6	2	21	11003	95	0	0	1	3	
+7	2	22	11003	165	0	0	1	4	
+8	2	23	11003	420	0	0	1	8	
+9	3	31	11006	40	0	0	2	1	
+10	3	32	11006	90	0	0	11003	66	
+11	3	33	11006	150	0	0	11003	99	

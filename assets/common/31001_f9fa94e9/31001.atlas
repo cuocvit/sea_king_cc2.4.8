@@ -1,0 +1,160 @@
+
+31001.png
+size: 272,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_fadai
+  rotate: false
+  xy: 85, 26
+  size: 81, 28
+  orig: 81, 28
+  offset: 0, 0
+  index: -1
+b_fadai1
+  rotate: false
+  xy: 245, 222
+  size: 19, 48
+  orig: 19, 48
+  offset: 0, 0
+  index: -1
+b_shenti
+  rotate: false
+  xy: 231, 129
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+b_tou
+  rotate: false
+  xy: 106, 123
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+b_toufa
+  rotate: false
+  xy: 231, 93
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+di_01
+  rotate: false
+  xy: 2, 168
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 58
+  size: 95, 108
+  orig: 95, 108
+  offset: 0, 0
+  index: -1
+tx_01
+  rotate: true
+  xy: 106, 204
+  size: 66, 137
+  orig: 66, 137
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: true
+  xy: 180, 69
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+z_fadai
+  rotate: false
+  xy: 85, 5
+  size: 75, 19
+  orig: 77, 21
+  offset: 1, 1
+  index: -1
+z_fadai1
+  rotate: false
+  xy: 210, 73
+  size: 19, 48
+  orig: 19, 48
+  offset: 0, 0
+  index: -1
+z_rshou
+  rotate: false
+  xy: 231, 68
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+z_rshou1
+  rotate: false
+  xy: 168, 23
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1
+z_rtui
+  rotate: false
+  xy: 168, 34
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+z_shenti
+  rotate: false
+  xy: 231, 165
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+z_tou
+  rotate: false
+  xy: 99, 56
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+z_toufa
+  rotate: false
+  xy: 2, 5
+  size: 81, 51
+  orig: 81, 51
+  offset: 0, 0
+  index: -1
+z_wuqi
+  rotate: false
+  xy: 188, 123
+  size: 38, 79
+  orig: 40, 81
+  offset: 1, 1
+  index: -1
+z_yan1
+  rotate: true
+  xy: 256, 71
+  size: 20, 9
+  orig: 21, 12
+  offset: 1, 1
+  index: -1
+z_yan2
+  rotate: false
+  xy: 180, 41
+  size: 17, 12
+  orig: 19, 14
+  offset: 1, 1
+  index: -1
+z_ztui
+  rotate: true
+  xy: 180, 55
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+z_zuoshou
+  rotate: false
+  xy: 245, 202
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1

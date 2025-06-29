@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "defense_fail",
+    "texture": "05f41b36-0c69-461d-902c-162da276cae7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      33,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      33,
+      65
+    ],
+    "capInsets": [
+      12,
+      0,
+      12,
+      17
+    ]
+  }
+}

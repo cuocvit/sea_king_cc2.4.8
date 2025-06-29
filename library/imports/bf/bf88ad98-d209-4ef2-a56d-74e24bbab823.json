@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "caveslevel",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "id\tmap_id\tdata_id\t\r\n关卡ID\t地图id\t数据id\t\r\ninteger\tinteger\tinteger\t\r\nkey\t\"\"\t\"\"\t\r\n1\t101\t1\t\r\n2\t102\t1\t\r\n3\t103\t1\t\r\n4\t104\t1\t\r\n5\t105\t1\t\r\n6\t106\t1\t\r\n7\t107\t1\t\r\n8\t108\t1\t\r\n9\t109\t1\t\r\n10\t110\t1\t\r\n11\t111\t1\t\r\n12\t112\t1\t\r\n13\t101\t2\t\r\n14\t102\t2\t\r\n15\t103\t2\t\r\n16\t104\t2\t\r\n17\t105\t2\t\r\n18\t106\t2\t\r\n19\t107\t2\t\r\n20\t108\t2\t\r\n21\t109\t2\t\r\n22\t110\t2\t\r\n23\t111\t2\t\r\n24\t112\t2\t\r\n25\t101\t3\t\r\n26\t102\t3\t\r\n27\t103\t3\t\r\n28\t104\t3\t\r\n29\t105\t3\t\r\n30\t106\t3\t\r\n31\t107\t3\t\r\n32\t108\t3\t\r\n33\t109\t3\t\r\n34\t110\t3\t\r\n35\t111\t3\t\r\n36\t112\t3\t\r\n37\t101\t4\t\r\n38\t102\t4\t\r\n39\t103\t4\t\r\n40\t104\t4\t\r\n41\t105\t4\t\r\n42\t106\t4\t\r\n43\t107\t4\t\r\n44\t108\t4\t\r\n45\t109\t4\t\r\n46\t110\t4\t\r\n47\t111\t4\t\r\n48\t112\t4\t\r\n"
+}

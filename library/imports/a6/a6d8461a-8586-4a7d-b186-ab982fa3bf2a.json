@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lihe1",
+    "texture": "4bb75000-a0c3-41f5-9057-7dc527e66e7e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      418,
+      164
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      418,
+      164
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

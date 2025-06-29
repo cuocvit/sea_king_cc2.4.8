@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnadd1",
+    "texture": "ece4e1d5-5d15-4a85-8143-47389a77392c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      58,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      58,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icontrical",
+    "texture": "bdfd931e-c3be-43db-8056-b4c9f9eb09cb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      34,
+      15
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      34,
+      15
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

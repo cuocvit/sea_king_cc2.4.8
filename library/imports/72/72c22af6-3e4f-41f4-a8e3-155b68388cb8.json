@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "moreCoin",
+    "texture": "ced034b7-3d3f-49cf-868f-36293a1bd5ca",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      238,
+      178
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      239,
+      178
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

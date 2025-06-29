@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lockbg",
+    "texture": "8bc68ac6-ff83-486c-afcc-bbc97c3cb5ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      136,
+      144
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      136,
+      144
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

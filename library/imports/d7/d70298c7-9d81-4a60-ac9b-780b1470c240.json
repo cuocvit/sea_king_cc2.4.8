@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_lv2",
+    "texture": "21dd122b-6e1c-4685-ba96-f79d3bf26401",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      50,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      50,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "loding_ship_innormal",
+  "_duration": 1,
+  "sample": 30,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "ship1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -68.694,
+                -95,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "glow_14": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "lizi1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "lizi2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -373.229,
+                -422.156,
+                0
+              ]
+            }
+          ]
+        },
+        "comps": {
+          "cc.ParticleSystem": {
+            "angle": [
+              {
+                "frame": 0,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "ship": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -49,
+                -75
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -57.1,
+                -70.5
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 1,
+              "value": [
+                -49,
+                -75
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": -6.025
+            },
+            {
+              "frame": 1,
+              "value": -6.025
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

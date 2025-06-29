@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fail_reward",
+    "texture": "f31fb6d5-a460-4f19-af0e-643fff03b99b",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      111,
+      23
+    ],
+    "offset": [
+      -0.5,
+      4.5
+    ],
+    "originalSize": [
+      118,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

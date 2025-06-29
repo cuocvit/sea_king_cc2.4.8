@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnBuy",
+    "texture": "f4b58e35-7717-4c19-a7b5-d4e2bc29af19",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      178,
+      182
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      178,
+      182
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

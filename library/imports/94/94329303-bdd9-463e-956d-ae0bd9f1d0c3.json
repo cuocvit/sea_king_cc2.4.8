@@ -1,0 +1,122 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "barracks_close",
+  "_duration": 0.5,
+  "sample": 30,
+  "curveData": {
+    "paths": {
+      "showPanle/bgblue": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.26666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "showPanle/list": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -17,
+                -1560
+              ]
+            },
+            {
+              "frame": 0.3,
+              "curve": "sineOut",
+              "value": [
+                -18,
+                -1509
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -33,
+                -2752
+              ]
+            }
+          ]
+        }
+      },
+      "showPanle/bgwhite3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "showPanle/btnBook": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "showPanle/btnClose": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "showPanle/heroList": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -17,
+                -1560
+              ]
+            },
+            {
+              "frame": 0.3,
+              "curve": "sineOut",
+              "value": [
+                -18,
+                -1509
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -33,
+                -2752
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

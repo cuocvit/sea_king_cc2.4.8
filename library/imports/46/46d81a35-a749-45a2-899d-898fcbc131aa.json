@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huotan",
+    "texture": "ea451835-0ce4-44a3-9fbb-bfd35e2e0f74",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      344,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      344,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

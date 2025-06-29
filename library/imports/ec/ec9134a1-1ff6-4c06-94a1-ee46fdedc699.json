@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tanhao",
+    "texture": "39dc642f-a349-48f2-a649-58aa1125f97f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      16,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

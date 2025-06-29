@@ -1,0 +1,101 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "New_item_acquisition",
+  "_duration": 1.6666666666666667,
+  "sample": 30,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "mask/glow_10": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -77.1,
+                24.2
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": [
+                0.372,
+                2.528,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 50
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 25
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 50
+            }
+          ]
+        }
+      },
+      "mask copy/glow_10": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": [
+                30.223,
+                45.334,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 50
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 25
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 50
+            }
+          ]
+        }
+      },
+      "glow_11": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 50
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 25
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 50
+            }
+          ]
+        }
+      }
+    }
+  }
+}

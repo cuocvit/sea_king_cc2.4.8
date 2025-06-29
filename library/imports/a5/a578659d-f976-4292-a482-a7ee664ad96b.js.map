@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\common\\configs\\random_name.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["export interface RandomName {\r\n    id: number;\r\n    last_name: string;\r\n    first_name: string;\r\n}"]}

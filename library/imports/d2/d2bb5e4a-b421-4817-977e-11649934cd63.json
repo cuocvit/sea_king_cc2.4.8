@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "add_desktop_btn",
+    "texture": "fdc7f21d-5530-4315-9bf3-de39739bc0b3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      85,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      85,
+      89
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "automask",
+    "texture": "56b5c8bb-bed2-43ab-a8fb-2e183b6a37e1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      96,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      96,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

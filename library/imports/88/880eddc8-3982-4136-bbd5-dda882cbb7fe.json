@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "special",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "id\tcontent\tprop\tvalue\tcoin\tunlock\t\r\n特殊id\t描述\t所需道具\t所需值\t奖励\t激活解锁格子\t\r\ninteger\tstring\tstring\tstring\tinteger\tinteger\t\r\nkey\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\r\n1\t\"Thần Biển Giáng Lâm\"\t22001|22002|22005\t1|1|1\t215\t187\t\r\n2\t\"Hang Động Nguyên Thủy\"\t31003|32001|33001\t1|1|1\t268\t144\t\r\n3\t\"Suối Thần Mặt Trăng\"\t0\t0\t0\t42\t\r\n4\t\"Vua Rồng Núi Lửa\"\t0\t0\t0\t27\t\r\n5\t\"Rùa Thần Bảy Màu\"\t0\t0\t0\t216\t\r\n"
+}

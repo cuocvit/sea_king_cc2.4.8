@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mqcs_at002",
+    "texture": "ab1c7796-b6d2-456a-9ac8-b53b86b0303f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      112
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

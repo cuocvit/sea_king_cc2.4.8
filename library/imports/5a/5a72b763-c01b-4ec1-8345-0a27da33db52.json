@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "herobg1",
+    "texture": "6844edf2-4c58-4b56-8d0b-4f62383c0937",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      63
+    ],
+    "capInsets": [
+      35,
+      39,
+      38,
+      17
+    ]
+  }
+}

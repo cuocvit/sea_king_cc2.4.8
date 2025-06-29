@@ -1,0 +1,145 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "loding_ship_inclose",
+  "_duration": 0.7333333333333333,
+  "sample": 30,
+  "curveData": {
+    "paths": {
+      "ship1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -69,
+                -95
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": [
+                -109,
+                -95
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": [
+                -536.884,
+                -98,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "glow_14": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "lizi1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "lizi2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -373.229,
+                -422.156,
+                0
+              ]
+            }
+          ]
+        },
+        "comps": {
+          "cc.ParticleSystem": {
+            "angle": [
+              {
+                "frame": 0,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "ship": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -49,
+                -75
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.23333333333333334,
+              "curve": "linear",
+              "value": [
+                -128,
+                -106
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": [
+                -532,
+                -95
+              ],
+              "motionPath": []
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": -6.025
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": -6.307
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": -2.8900000000000006
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

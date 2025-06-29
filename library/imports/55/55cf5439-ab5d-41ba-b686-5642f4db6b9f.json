@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tuxi1",
+    "texture": "3bcd31e6-5e90-47ba-898d-9f6daf6c2847",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

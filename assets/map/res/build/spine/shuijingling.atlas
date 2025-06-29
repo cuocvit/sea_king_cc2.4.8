@@ -1,0 +1,132 @@
+
+shuijingling.png
+size: 224,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: false
+  xy: 76, 3
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 2, 74
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 2, 2
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: false
+  xy: 95, 152
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+guang4
+  rotate: true
+  xy: 76, 72
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+guang5
+  rotate: true
+  xy: 148, 78
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 135, 30
+  size: 14, 40
+  orig: 14, 40
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 76, 14
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: true
+  xy: 135, 10
+  size: 18, 25
+  orig: 19, 30
+  offset: 1, 3
+  index: -1
+toukui
+  rotate: false
+  xy: 2, 146
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+wuguan
+  rotate: false
+  xy: 95, 147
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: true
+  xy: 190, 152
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: false
+  xy: 151, 30
+  size: 40, 16
+  orig: 40, 18
+  offset: 0, 1
+  index: -1
+yanjing3
+  rotate: true
+  xy: 169, 152
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 169, 194
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 189, 52
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 210, 165
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 151, 48
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+Transitions.png
+size: 287,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuanshen
+  rotate: true
+  xy: 2, 2
+  size: 185, 187
+  orig: 187, 189
+  offset: 1, 1
+  index: -1
+fanchuan
+  rotate: true
+  xy: 191, 52
+  size: 135, 94
+  orig: 135, 94
+  offset: 0, 0
+  index: -1

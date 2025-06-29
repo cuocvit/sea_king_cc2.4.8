@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gold_turtle",
+    "texture": "f2788492-5f69-4316-819e-224debb0b239",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      158,
+      123
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      158,
+      123
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

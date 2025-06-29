@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ico_luzhi",
+    "texture": "dd0dbc6f-9955-423d-9943-795d909dab7f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      102,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

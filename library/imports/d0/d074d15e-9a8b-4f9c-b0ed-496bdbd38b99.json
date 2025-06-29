@@ -1,0 +1,445 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "item_TongClose",
+  "_duration": 0.6666666666666666,
+  "sample": 30,
+  "curveData": {
+    "paths": {
+      "tiShi": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ],
+          "width": [
+            {
+              "frame": 0,
+              "value": 60
+            }
+          ],
+          "height": [
+            {
+              "frame": 0,
+              "value": 60
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Fx_xiangzi": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Fx_xiangzi/guang": {
+        "props": {
+          "opacity": [],
+          "scale": []
+        }
+      },
+      "Fx_xiangzi/a_1": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": []
+          }
+        }
+      },
+      "lizi": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        },
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": []
+          }
+        }
+      },
+      "Fx_xiangzi/emerge_hole": {
+        "props": {
+          "scale": [],
+          "opacity": []
+        }
+      },
+      "open_xiangzi": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": true
+            }
+          ]
+        }
+      },
+      "glow_07": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "open_xiangzi/t3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.3,
+              "curve": "sineOut",
+              "value": [
+                7.1,
+                -15.2
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": [
+                21.8,
+                -29.2
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.23333333333333334,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.3,
+              "value": 255
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.3,
+              "value": 0
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": -9
+            }
+          ]
+        }
+      },
+      "open_xiangzi/t1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.3,
+              "curve": "sineOut",
+              "value": [
+                -28.2,
+                1
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": [
+                -46.9,
+                0.6
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.23333333333333334,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.3,
+              "value": 255
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 255
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.3,
+              "value": 0
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 8
+            }
+          ]
+        }
+      },
+      "open_xiangzi/t2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.3,
+              "curve": "sineOut",
+              "value": [
+                28.7,
+                8.2
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": [
+                45.5,
+                7.9
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.23333333333333334,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.3,
+              "value": 255
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 255
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.3,
+              "value": 0
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": -7
+            }
+          ]
+        }
+      },
+      "open_statue": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "New Node": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                7,
+                0
+              ]
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": [
+                0,
+                -6.963,
+                0
+              ]
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": [
+                0,
+                7,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.608,
+                "y": 0.664
+              }
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "open_xiangzi/glow_15": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.23333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ]
+        }
+      },
+      "open_xiangzi/glow_06": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.26666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.513,
+                "y": 0.513
+              }
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.3,
+                "value": {
+                  "__uuid__": "e9095de1-1b9b-409b-bce7-95d65a342e30"
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__uuid__": "6828e2a2-0f78-4c33-899b-6d766e3ff24f"
+                }
+              },
+              {
+                "frame": 0.4,
+                "value": {
+                  "__uuid__": "e5579c5d-bfb2-4155-83ad-39eef34b0439"
+                }
+              },
+              {
+                "frame": 0.4666666666666667,
+                "value": {
+                  "__uuid__": "79b6b9b4-b1d9-490a-903f-f570527acdf6"
+                }
+              },
+              {
+                "frame": 0.5333333333333333,
+                "value": {
+                  "__uuid__": "cf4c6a1b-cded-4495-b0d5-30be1faa26c7"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "open_xiangzi/glow_15 copy": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.23333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

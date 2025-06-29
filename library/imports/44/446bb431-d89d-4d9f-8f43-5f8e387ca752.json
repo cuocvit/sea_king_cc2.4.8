@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sign_buy_bg",
+    "texture": "68753b1e-b3a0-4722-83d5-c297a7bebadb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      196,
+      232
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      196,
+      232
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

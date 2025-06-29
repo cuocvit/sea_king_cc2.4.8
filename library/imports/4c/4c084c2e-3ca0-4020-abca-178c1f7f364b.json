@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flag_new",
+    "texture": "942695f2-a65b-4e30-8e16-cd609a4c0c31",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      54,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

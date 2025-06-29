@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "ladder_lv",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "lv\tname\ticon_id\tranking_a\tranking_b\tfailed_star\tsuccess_star\tprop_ratio\tloss_prop_ratio\t\"\"\t\"\"\t\r\n排名区间\t名称\t段位图像id\t排名区间A\t排名区间B\t（攻方）失败扣减星星\t（守方）胜利获得星星\t地图上道具提取百分比\t玩家被打一次损失的道具比例\t\"\"\t\"\"\t\r\ninteger\tstring\tstring\tinteger\tinteger\tinteger\tinteger\tfloat\tfloat\t\"\"\t\"\"\t\r\nkey\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\r\n1\t\"Hạng người chơi 1001-99999\"\t1\t1001\t99999\t15\t10\t500\t10000\t\"\"\t\"\"\t\r\n2\t\"Hạng người chơi 501-1000\"\t1\t501\t1000\t25\t15\t600\t10000\t\"\"\t\"\"\t\r\n3\t\"Hạng người chơi 201-500\"\t2\t201\t500\t35\t20\t700\t10000\t\"\"\t\"\"\t\r\n4\t\"Hạng người chơi 101-200\"\t3\t101\t200\t45\t25\t800\t10000\t\"\"\t\"\"\t\r\n5\t\"Hạng người chơi 51-100\"\t4\t51\t100\t45\t25\t800\t10000\t\"\"\t\"\"\t\r\n6\t\"Hạng người chơi 11-50\"\t5\t11\t50\t55\t30\t900\t10000\t\"\"\t\"\"\t\r\n7\t\"Hạng người chơi 4-10\"\t6\t4\t10\t65\t35\t1000\t10000\t\"\"\t\"\"\t\r\n8\t\"Hạng người chơi 2-3\"\t6\t2\t3\t65\t35\t1000\t10000\t\"\"\t\"\"\t\r\n9\t\"Hạng người chơi 1-1\"\t6\t1\t1\t65\t35\t1000\t10000\t\"\"\t\"\"\t\r\n"
+}

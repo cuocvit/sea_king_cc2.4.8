@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tyhuo_00001",
+    "texture": "f468010f-8a42-4787-b85e-f4f751fbbb03",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      148,
+      189
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      148,
+      189
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

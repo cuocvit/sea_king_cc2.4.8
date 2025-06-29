@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "barBuy",
+    "texture": "278f4993-6a0f-47a1-bbd9-03b41b8fcae9",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      149,
+      36
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      150,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

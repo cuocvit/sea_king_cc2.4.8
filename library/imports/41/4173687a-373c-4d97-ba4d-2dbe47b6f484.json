@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zfire_06",
+    "texture": "7466a10f-6709-4472-8e23-1d0aa52be6a3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

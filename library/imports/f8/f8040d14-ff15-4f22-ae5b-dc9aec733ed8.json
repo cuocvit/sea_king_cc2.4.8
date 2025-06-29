@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "firehit_00",
+    "texture": "ace5f6a9-458f-4eb7-9ff0-6d652d360e79",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      440,
+      222
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      440,
+      222
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

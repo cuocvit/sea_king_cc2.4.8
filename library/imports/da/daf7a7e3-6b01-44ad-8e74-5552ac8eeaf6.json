@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "moreGem",
+    "texture": "f3919a96-2b41-4d4f-81a5-7c98c4213292",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      243,
+      186
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      244,
+      186
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

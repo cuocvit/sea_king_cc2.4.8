@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dongku",
+    "texture": "b2dc50f4-0ac6-4fb2-8e16-e4e09449bc2e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      101,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      101,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

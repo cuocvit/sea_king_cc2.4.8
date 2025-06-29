@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "battle",
+    "texture": "40d6d7a0-0457-4bc0-8a7c-2d16884bf5f5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      144
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      144
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

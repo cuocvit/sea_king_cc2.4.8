@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\common\\configs\\shop.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["export interface ShopConfig {\r\n    shop_id: number;\r\n    lv: number;\r\n    shop_type: number;\r\n    item_id: number;\r\n    item_num: number;\r\n    money_type: number;\r\n    price: number;\r\n    limit_num: number;\r\n}"]}

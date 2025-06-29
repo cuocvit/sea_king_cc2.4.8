@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgTank",
+    "texture": "255bf257-2a7e-4dd4-99ff-d73f30109f6f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      124,
+      192
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      192
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

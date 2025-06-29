@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "barpic",
+    "texture": "8364a338-801b-49e1-9d60-28026f91181c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

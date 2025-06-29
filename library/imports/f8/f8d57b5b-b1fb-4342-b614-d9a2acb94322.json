@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "battle_B_ship",
+    "texture": "f62d91b4-0928-44d9-86e1-9c3dfae1dc1c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      126
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      126
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

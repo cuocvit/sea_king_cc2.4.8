@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ICO_di02",
+    "texture": "ec783ab7-81c0-47ba-859f-46f198b219ab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      52,
+      48,
+      53,
+      52
+    ]
+  }
+}

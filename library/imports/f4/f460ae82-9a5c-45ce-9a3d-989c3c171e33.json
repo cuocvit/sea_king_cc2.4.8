@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnLightItalics",
+    "texture": "a64e4cb7-480a-4be8-ad97-717f74f7a909",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      169,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      169,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

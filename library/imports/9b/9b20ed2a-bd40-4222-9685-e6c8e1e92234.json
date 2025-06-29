@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yanhua_001",
+    "texture": "7bc228ca-857e-435b-9f1c-f8c51fb73f01",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      474,
+      490
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      474,
+      490
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

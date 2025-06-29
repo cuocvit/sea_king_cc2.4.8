@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "autolbl",
+    "texture": "f87edf1d-814d-4b74-8810-73e7ba5a2b6d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      85,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      85,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "cask",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "num\tdrop\t\r\n次数\t道具\t\r\ninteger\tinteger\t\r\nkey\t\"\"\t\r\n1\t30001\t\r\n2\t18001\t\r\n3\t18001\t\r\n4\t30001\t\r\n5\t16002\t\r\n6\t16002\t\r\n7\t18001\t\r\n8\t14001\t\r\n9\t16001\t\r\n10\t16002\t\r\n11\t18001\t\r\n12\t30001\t\r\n13\t16003\t\r\n14\t16002\t\r\n15\t30001\t\r\n16\t18001\t\r\n17\t17002\t\r\n18\t16002\t\r\n19\t16002\t\r\n20\t30001\t\r\n21\t16001\t\r\n22\t16001\t\r\n23\t30001\t\r\n24\t18001\t\r\n25\t17002\t\r\n26\t17002\t\r\n27\t18002\t\r\n28\t30001\t\r\n29\t15001\t\r\n30\t16001\t\r\n31\t17001\t\r\n32\t16001\t\r\n33\t18001\t\r\n34\t16002\t\r\n35\t16001\t\r\n36\t17002\t\r\n37\t16002\t\r\n38\t16001\t\r\n"
+}

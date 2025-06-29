@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\common\\configs\\special.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["export interface Special {\r\n    id: number;\r\n    content: string;\r\n    prop: number[];\r\n    value: number[];\r\n    coin: number;\r\n    unlock: number;\r\n}"]}

@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hit_01",
+  "_duration": 0.3,
+  "sample": 30,
+  "curveData": {
+    "paths": {
+      "hit_0": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "74f9bbbe-8d40-47ed-acd6-2b173b25d559"
+                }
+              },
+              {
+                "frame": 0.06666666666666667,
+                "value": {
+                  "__uuid__": "b6554fac-5076-4b16-8a74-ddf5322fcbff"
+                }
+              },
+              {
+                "frame": 0.13333333333333333,
+                "value": {
+                  "__uuid__": "47bc542f-5cf6-4bd4-8f58-294d84d91c1d"
+                }
+              },
+              {
+                "frame": 0.2,
+                "value": {
+                  "__uuid__": "81603128-f37e-47ee-b494-678070a1bd1e"
+                }
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": null
+              }
+            ]
+          }
+        }
+      },
+      "glow_16": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.417,
+                "y": 0.417
+              }
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.221,
+                "y": 1.221
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.78,
+                "y": 1.78
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

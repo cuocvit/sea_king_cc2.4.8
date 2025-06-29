@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zi-chaojimanghe",
+    "texture": "2531aab1-e01a-4788-81b6-1867cbfe0a5b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      270,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      270,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

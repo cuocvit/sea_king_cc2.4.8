@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\common\\configs\\constants.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["export interface ConstantsConfig {\r\n    name: string;\r\n    desc: string;\r\n    type: string;\r\n    value: string;\r\n}"]}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgjiantouline",
+    "texture": "68bb2bdb-9fab-43aa-b349-4446fccc18b0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      16,
+      6
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      6
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

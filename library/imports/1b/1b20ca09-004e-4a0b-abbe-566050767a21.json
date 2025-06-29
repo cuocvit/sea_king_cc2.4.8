@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "ladder_building",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "lv\ticonId\tranking_a\tranking_b\treward_array\treward_id\treward_num\treward_id\treward_num\t\r\n区间等级\t图标显示\t排名区间\t排名区间\t奖励数组\t奖励id\t奖励数量\t奖励id\t奖励数量\t\r\ninteger\tinteger\tinteger\tinteger\tarray\tinteger\tinteger\tinteger\tinteger\t\r\nkey\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\r\n1\t1\t1001\t99999\t2|2|2\t11003\t1\t11006\t1\t\r\n2\t1\t501\t1000\t2|2|2\t11003\t3\t11006\t2\t\r\n3\t2\t201\t500\t2|2|2\t11003\t5\t11006\t3\t\r\n4\t3\t101\t200\t2|2|2\t11003\t8\t11006\t4\t\r\n5\t4\t51\t100\t2|2|2\t11003\t10\t11006\t5\t\r\n6\t5\t11\t50\t2|2|2\t11003\t20\t11006\t8\t\r\n7\t6\t4\t10\t2|2|2\t11003\t30\t11006\t10\t\r\n8\t6\t2\t3\t2|2|2\t11003\t40\t11006\t15\t\r\n9\t6\t1\t1\t2|2|2\t11003\t50\t11006\t20\t\r\n"
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huoju",
+    "texture": "882328f1-7b1b-47a4-83c2-7a59099fd213",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      82,
+      145
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      145
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+
+lianNu.png
+size: 140,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bd
+  rotate: false
+  xy: 2, 124
+  size: 16, 11
+  orig: 18, 13
+  offset: 1, 1
+  index: -1
+bg1
+  rotate: false
+  xy: 38, 51
+  size: 43, 32
+  orig: 45, 34
+  offset: 1, 1
+  index: -1
+bg2
+  rotate: false
+  xy: 83, 51
+  size: 47, 32
+  orig: 49, 34
+  offset: 1, 1
+  index: -1
+c2g
+  rotate: true
+  xy: 2, 61
+  size: 35, 34
+  orig: 37, 36
+  offset: 1, 1
+  index: -1
+c2g2
+  rotate: true
+  xy: 2, 24
+  size: 35, 34
+  orig: 37, 36
+  offset: 1, 1
+  index: -1
+c2gd
+  rotate: false
+  xy: 20, 122
+  size: 16, 13
+  orig: 18, 15
+  offset: 1, 1
+  index: -1
+cd
+  rotate: false
+  xy: 61, 119
+  size: 19, 16
+  orig: 21, 18
+  offset: 1, 1
+  index: -1
+cg1
+  rotate: false
+  xy: 38, 15
+  size: 41, 34
+  orig: 43, 36
+  offset: 1, 1
+  index: -1
+cg2
+  rotate: false
+  xy: 81, 15
+  size: 41, 34
+  orig: 43, 36
+  offset: 1, 1
+  index: -1
+fd
+  rotate: false
+  xy: 38, 121
+  size: 21, 14
+  orig: 23, 16
+  offset: 1, 1
+  index: -1
+fg1
+  rotate: false
+  xy: 38, 85
+  size: 47, 29
+  orig: 49, 31
+  offset: 1, 1
+  index: -1
+fg2
+  rotate: false
+  xy: 87, 85
+  size: 44, 29
+  orig: 46, 31
+  offset: 1, 1
+  index: -1
+jian
+  rotate: true
+  xy: 2, 98
+  size: 22, 34
+  orig: 24, 36
+  offset: 1, 1
+  index: -1
+xian
+  rotate: false
+  xy: 82, 116
+  size: 53, 19
+  orig: 53, 19
+  offset: 0, 0
+  index: -1

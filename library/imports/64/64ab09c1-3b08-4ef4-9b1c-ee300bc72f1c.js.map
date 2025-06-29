@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\common\\configs\\name_pool.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["export interface NamePool {\r\n    pool_id: number;\r\n    id: number;\r\n    name: string\r\n}"]}

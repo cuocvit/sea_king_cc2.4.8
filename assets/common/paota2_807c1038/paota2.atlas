@@ -1,0 +1,132 @@
+
+paota2.png
+size: 348,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beibao111
+  rotate: false
+  xy: 167, 114
+  size: 74, 90
+  orig: 74, 90
+  offset: 0, 0
+  index: -1
+beibao222
+  rotate: false
+  xy: 81, 120
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+beibao333
+  rotate: true
+  xy: 243, 65
+  size: 53, 78
+  orig: 53, 78
+  offset: 0, 0
+  index: -1
+beibao444
+  rotate: false
+  xy: 243, 192
+  size: 85, 74
+  orig: 85, 74
+  offset: 0, 0
+  index: -1
+hongban111
+  rotate: false
+  xy: 2, 96
+  size: 77, 133
+  orig: 77, 133
+  offset: 0, 0
+  index: -1
+hongban222
+  rotate: false
+  xy: 2, 231
+  size: 97, 114
+  orig: 97, 114
+  offset: 0, 0
+  index: -1
+hongban333
+  rotate: true
+  xy: 101, 283
+  size: 62, 142
+  orig: 62, 142
+  offset: 0, 0
+  index: -1
+hongban444
+  rotate: true
+  xy: 2, 2
+  size: 92, 111
+  orig: 92, 111
+  offset: 0, 0
+  index: -1
+lvbing111
+  rotate: false
+  xy: 206, 214
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+lvbing222
+  rotate: false
+  xy: 184, 80
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+lvbing333
+  rotate: false
+  xy: 206, 248
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+lvbing444
+  rotate: false
+  xy: 115, 14
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+paoguan111
+  rotate: false
+  xy: 115, 47
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+paoguan222
+  rotate: true
+  xy: 184, 4
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+paoguan333
+  rotate: false
+  xy: 252, 2
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+paoguan444
+  rotate: false
+  xy: 243, 120
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+paohuo
+  rotate: true
+  xy: 101, 206
+  size: 75, 103
+  orig: 75, 103
+  offset: 0, 0
+  index: -1
+tong_dizuo
+  rotate: false
+  xy: 245, 268
+  size: 100, 77
+  orig: 100, 77
+  offset: 0, 0
+  index: -1

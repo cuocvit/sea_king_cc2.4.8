@@ -1,0 +1,13 @@
+lv	iconId	ranking_a	ranking_b	reward_array	reward_id	reward_num	reward_id	reward_num	
+区间等级	图标显示	排名区间	排名区间	奖励数组	奖励id	奖励数量	奖励id	奖励数量	
+integer	integer	integer	integer	array	integer	integer	integer	integer	
+key	""	""	""	""	""	""	""	""	
+1	1	1001	99999	2|2|2	11006	5	11003	2	
+2	1	501	1000	2|2|2	11006	10	11003	5	
+3	2	201	500	2|2|2	11006	15	11003	10	
+4	3	101	200	2|2|2	11006	20	11003	15	
+5	4	51	100	2|2|2	11006	25	11003	20	
+6	5	11	50	2|2|2	11006	40	11003	25	
+7	6	4	10	2|2|2	11006	70	11003	30	
+8	6	2	3	2|2|2	11006	90	11003	40	
+9	6	1	1	2|2|2	11006	120	11003	50	

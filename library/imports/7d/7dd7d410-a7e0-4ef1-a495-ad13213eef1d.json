@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fazhen_02",
+    "texture": "67199f9c-ca33-4d23-8547-7348178724c5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      256,
+      255
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      255
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\common\\configs\\ladder_achievement.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["import { rewardArr } from \"./ladder_building\";\r\nexport interface LadderAchievementConfig {\r\n    id: number;\r\n    star: number;\r\n    reward_array: rewardArr[];\r\n}"]}

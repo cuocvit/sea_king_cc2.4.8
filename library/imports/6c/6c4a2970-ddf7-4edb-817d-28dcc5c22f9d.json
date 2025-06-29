@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "22002",
+  "_duration": 0.5333333333333333,
+  "sample": 15,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "glow_04": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.2,
+              "value": 100
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "bfire_01": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "c61020d4-7a52-424b-87a9-f1275ca8484c"
+                }
+              },
+              {
+                "frame": 0.06666666666666667,
+                "value": {
+                  "__uuid__": "a0d04f42-dea2-4588-959a-0159263d1eb9"
+                }
+              },
+              {
+                "frame": 0.13333333333333333,
+                "value": {
+                  "__uuid__": "84ecbe7f-1506-4cb7-a57c-9467e0e71760"
+                }
+              },
+              {
+                "frame": 0.2,
+                "value": {
+                  "__uuid__": "d1467033-2fd4-4d99-b56b-0d0cbb86808a"
+                }
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": {
+                  "__uuid__": "539930be-ceca-4a31-a398-d1be3d8652a0"
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__uuid__": "e7219350-ff9f-4b30-bc72-75da256e57eb"
+                }
+              },
+              {
+                "frame": 0.4,
+                "value": {
+                  "__uuid__": "d5c6c986-2871-4d77-a33c-fefd9ce64ab0"
+                }
+              },
+              {
+                "frame": 0.4666666666666667,
+                "value": {
+                  "__uuid__": "84623882-674a-47ed-baad-57753f22f5da"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

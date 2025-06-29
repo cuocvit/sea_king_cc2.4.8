@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhuhun",
+    "texture": "eb5d81cd-3bcb-4f83-8db1-4982fe4e75fb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      547,
+      918
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      547,
+      918
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

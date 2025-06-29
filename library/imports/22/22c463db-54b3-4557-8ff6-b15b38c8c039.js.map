@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\common\\configs\\lv_random.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["export interface lvRandomConfig{\r\n    castle_lv: number;\r\n    lighthouse_lv: number;\r\n    pool_id: number;\r\n}"]}

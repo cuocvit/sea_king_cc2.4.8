@@ -1,0 +1,111 @@
+
+buxiang.png
+size: 476,476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiang_erduo
+  rotate: false
+  xy: 231, 75
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+xiang_qugan
+  rotate: false
+  xy: 2, 73
+  size: 165, 190
+  orig: 165, 190
+  offset: 0, 0
+  index: -1
+xiang_tou
+  rotate: false
+  xy: 291, 130
+  size: 127, 157
+  orig: 129, 159
+  offset: 1, 1
+  index: -1
+xiang_touying
+  rotate: false
+  xy: 2, 327
+  size: 333, 144
+  orig: 333, 151
+  offset: 0, 7
+  index: -1
+xiangbizi
+  rotate: false
+  xy: 337, 289
+  size: 134, 182
+  orig: 134, 182
+  offset: 0, 0
+  index: -1
+xianghou_ya
+  rotate: false
+  xy: 197, 151
+  size: 92, 174
+  orig: 92, 174
+  offset: 0, 0
+  index: -1
+xiangqian_ya
+  rotate: true
+  xy: 2, 265
+  size: 60, 193
+  orig: 60, 193
+  offset: 0, 0
+  index: -1
+xiangtoufa_shang
+  rotate: false
+  xy: 231, 34
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+xiangtoufa_xia
+  rotate: true
+  xy: 289, 74
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+xiangtoufa_zhong
+  rotate: true
+  xy: 129, 13
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+xiangyoushou
+  rotate: false
+  xy: 360, 26
+  size: 52, 102
+  orig: 52, 102
+  offset: 0, 0
+  index: -1
+xiangyouyan
+  rotate: true
+  xy: 169, 242
+  size: 21, 13
+  orig: 23, 15
+  offset: 1, 1
+  index: -1
+xiangzuo_shou
+  rotate: true
+  xy: 2, 5
+  size: 66, 125
+  orig: 66, 125
+  offset: 0, 0
+  index: -1
+xiangzuojiao
+  rotate: false
+  xy: 169, 17
+  size: 60, 132
+  orig: 60, 134
+  offset: 0, 0
+  index: -1
+xiangzuoyan
+  rotate: true
+  xy: 169, 225
+  size: 15, 11
+  orig: 17, 13
+  offset: 1, 1
+  index: -1

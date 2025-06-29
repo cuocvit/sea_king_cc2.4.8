@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bingying",
+    "texture": "39ba11f1-6626-4d79-9dfe-ec7869aadb1f",
+    "atlas": "",
+    "rect": [
+      87,
+      34,
+      330,
+      117
+    ],
+    "offset": [
+      -5.5,
+      -7
+    ],
+    "originalSize": [
+      515,
+      171
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

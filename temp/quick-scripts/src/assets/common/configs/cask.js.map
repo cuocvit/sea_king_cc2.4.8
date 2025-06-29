@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\common\\configs\\cask.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["export interface CaskConfig {\r\n    num: number;\r\n    drop: number;\r\n}"]}

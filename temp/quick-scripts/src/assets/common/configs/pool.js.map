@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\common\\configs\\pool.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["export interface PoolConfig {\r\n    id: number;\r\n    prop: number;\r\n    section_a: number;\r\n    section_b: number;\r\n    weight: number;\r\n}"]}

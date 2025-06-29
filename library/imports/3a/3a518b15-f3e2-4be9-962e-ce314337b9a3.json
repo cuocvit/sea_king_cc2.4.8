@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "autoacombg",
+    "texture": "c4daa6c7-61f8-4c7f-8cb2-69a012734d9c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ship_in",
+  "_duration": 0.7333333333333333,
+  "sample": 30,
+  "curveData": {
+    "paths": {
+      "ship_ani": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                49.931,
+                28.668,
+                0
+              ]
+            },
+            {
+              "frame": 0.7333333333333333,
+              "curve": "quadInOut",
+              "value": [
+                -5.5,
+                -7.8
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "quadInOut"
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,146 @@
+
+49001.png
+size: 192,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: true
+  xy: 108, 72
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 149, 67
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+jita2
+  rotate: false
+  xy: 109, 157
+  size: 68, 33
+  orig: 70, 35
+  offset: 1, 1
+  index: -1
+maozi3
+  rotate: false
+  xy: 2, 125
+  size: 105, 65
+  orig: 107, 67
+  offset: 1, 1
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 95
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+z_rjiao
+  rotate: true
+  xy: 184, 94
+  size: 8, 6
+  orig: 10, 8
+  offset: 1, 1
+  index: -1
+z_rshou
+  rotate: false
+  xy: 86, 98
+  size: 21, 25
+  orig: 23, 27
+  offset: 1, 1
+  index: -1
+z_rshoub
+  rotate: false
+  xy: 56, 115
+  size: 8, 8
+  orig: 10, 10
+  offset: 1, 1
+  index: -1
+z_rtui
+  rotate: false
+  xy: 179, 154
+  size: 9, 15
+  orig: 11, 17
+  offset: 1, 1
+  index: -1
+z_shenti
+  rotate: true
+  xy: 125, 26
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+z_tou
+  rotate: false
+  xy: 109, 96
+  size: 62, 59
+  orig: 64, 61
+  offset: 1, 1
+  index: -1
+z_toufa
+  rotate: true
+  xy: 2, 9
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+z_toufa2
+  rotate: false
+  xy: 86, 22
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+z_yan1
+  rotate: false
+  xy: 173, 114
+  size: 15, 7
+  orig: 17, 9
+  offset: 1, 1
+  index: -1
+z_yan2
+  rotate: false
+  xy: 173, 104
+  size: 14, 8
+  orig: 16, 10
+  offset: 1, 1
+  index: -1
+z_zshou
+  rotate: true
+  xy: 86, 72
+  size: 24, 20
+  orig: 26, 22
+  offset: 1, 1
+  index: -1
+z_ztui
+  rotate: true
+  xy: 173, 123
+  size: 9, 15
+  orig: 11, 17
+  offset: 1, 1
+  index: -1
+z_zui
+  rotate: true
+  xy: 179, 171
+  size: 19, 11
+  orig: 21, 13
+  offset: 1, 1
+  index: -1
+z_zuojiao
+  rotate: false
+  xy: 173, 96
+  size: 9, 6
+  orig: 11, 8
+  offset: 1, 1
+  index: -1
+z_zuoshou
+  rotate: true
+  xy: 173, 134
+  size: 18, 15
+  orig: 20, 17
+  offset: 1, 1
+  index: -1

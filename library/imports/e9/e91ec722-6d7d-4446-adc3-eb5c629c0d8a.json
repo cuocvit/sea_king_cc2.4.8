@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "harpoon",
+    "texture": "f93cce25-3e58-47f2-bf8e-b9d9a7cf8c04",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      33,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      33,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

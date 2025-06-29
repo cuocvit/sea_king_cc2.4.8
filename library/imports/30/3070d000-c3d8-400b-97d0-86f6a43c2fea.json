@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kapianbg",
+    "texture": "f4162feb-1cce-4fb6-b343-f5baeed39ac2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      484,
+      859
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      484,
+      859
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

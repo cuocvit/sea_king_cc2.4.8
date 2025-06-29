@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"candle_00","_duration":2,"sample":30,"wrapMode":2,"curveData":{"paths":{"glow_01":{"props":{"opacity":[{"frame":0,"value":255},{"frame":1,"value":100},{"frame":2,"value":255}]}},"glow_04":{"props":{"opacity":[{"frame":0,"value":200},{"frame":1,"value":50},{"frame":2,"value":200}]}}}}}

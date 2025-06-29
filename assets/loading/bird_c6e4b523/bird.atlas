@@ -1,0 +1,41 @@
+
+bird.png
+size: 236,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bird
+  rotate: false
+  xy: 2, 112
+  size: 142, 119
+  orig: 142, 119
+  offset: 0, 0
+  index: -1
+cb1
+  rotate: true
+  xy: 146, 169
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+cb2
+  rotate: true
+  xy: 146, 126
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+hezi
+  rotate: false
+  xy: 2, 2
+  size: 124, 108
+  orig: 126, 110
+  offset: 1, 1
+  index: -1
+huadai
+  rotate: true
+  xy: 128, 34
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1

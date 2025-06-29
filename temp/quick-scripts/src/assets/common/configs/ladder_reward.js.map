@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\common\\configs\\ladder_reward.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["import { rewardArr } from \"./ladder_building\";\r\nexport interface LadderRewardConfig {\r\n    lv: number;\r\n    iconId: number;\r\n    ranking_a: number;\r\n    ranking_b: number;\r\n    reward_array: rewardArr[];\r\n}\r\n"]}

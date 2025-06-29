@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\common\\configs\\caveslevel.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["export interface CavesLevel {\r\n    id: number;\r\n    map_id: number;\r\n    data_id: number;\r\n}"]}

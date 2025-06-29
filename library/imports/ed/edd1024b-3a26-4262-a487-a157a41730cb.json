@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heroPhoto2",
+    "texture": "5e36e2c7-edc1-4ff3-8467-5a07a066fbde",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

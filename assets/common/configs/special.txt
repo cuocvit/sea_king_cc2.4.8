@@ -1,0 +1,9 @@
+id	content	prop	value	coin	unlock	
+特殊id	描述	所需道具	所需值	奖励	激活解锁格子	
+integer	string	string	string	integer	integer	
+key	""	""	""	""	""	
+1	"Thần Biển Giáng Lâm"	22001|22002|22005	1|1|1	215	187	
+2	"Hang Động Nguyên Thủy"	31003|32001|33001	1|1|1	268	144	
+3	"Suối Thần Mặt Trăng"	0	0	0	42	
+4	"Vua Rồng Núi Lửa"	0	0	0	27	
+5	"Rùa Thần Bảy Màu"	0	0	0	216	

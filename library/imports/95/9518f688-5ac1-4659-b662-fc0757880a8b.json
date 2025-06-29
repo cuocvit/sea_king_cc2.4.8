@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnDarkItalics",
+    "texture": "afecacac-0aff-4d31-9878-dea43de521b7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      169,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      169,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

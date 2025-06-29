@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "league",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "lv\tname\ticon_id\tnext_lv_star\tfailed_star\tsuccess_star\t\"\"\t\"\"\t\"\"\t\"\"\t\r\n联赛等级\t名称\t段位图像id\t下一级需要的星星数\t（攻方）失败扣减星星\t（守方）胜利获得星星\t\"\"\t\"\"\t\"\"\t\"\"\t\r\ninteger\tstring\tstring\tinteger\tinteger\tinteger\t\"\"\t\"\"\t\"\"\t\"\"\t\r\nkey\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\"\"\t\r\n1\t\"Đồng Dũng Cảm\"\t1\t100\t15\t10\t\"\"\t\"\"\t\"\"\t\"\"\t\r\n2\t\"Bạc Bất Khuất\"\t2\t500\t20\t15\t\"\"\t\"\"\t\"\"\t\"\"\t\r\n3\t\"Vàng Vinh Quang\"\t3\t1000\t25\t20\t\"\"\t\"\"\t\"\"\t\"\"\t\r\n4\t\"Pha Lê Lấp Lánh\"\t4\t1800\t30\t25\t\"\"\t\"\"\t\"\"\t\"\"\t\r\n5\t\"Bậc Thầy Siêu Phàm\"\t5\t3000\t35\t30\t\"\"\t\"\"\t\"\"\t\"\"\t\r\n6\t\"Quán Quân Tối Cao\"\t6\t4600\t40\t35\t\"\"\t\"\"\t\"\"\t\"\"\t\r\n"
+}
